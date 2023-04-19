@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Huy Hải</h1>
 <h3 align="center">A Embedded developer from Viet Nam</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haihif" alt="haihif" /></a> </p>
 
 - 🔭 I’m currently working on **Microprocessor and Microcontroller**
