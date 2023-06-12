@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C/C++, Rust, Python**
 
-- 📫 How to reach me **haihif2002@gmail.com**
+- 📫 How to reach me **hai.nh200802@gmail.com**
 
 - ⚡ Fun fact **Nobody is perfect, I'm nobody**
 
